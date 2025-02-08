@@ -7,4 +7,4 @@ jobs:
     build_analyze_scan:
         name: Build
         runs-on: ubuntu-latest #[self-hosted]
-        steps
+        steps: 
